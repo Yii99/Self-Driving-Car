@@ -10,7 +10,7 @@ In this project, you will use what you've learned about deep neural networks and
 
 The dataset is collected by using the simulator provided by Udacity. The goal of the project is to train a CNN which predicts the steering direction at each instant, so that the vehicle can autonomously drive on the road.
 
-Project Structure
+Project Structur
 ---
 
 * model.py (script used to create and train the model)
