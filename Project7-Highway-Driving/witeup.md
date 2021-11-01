@@ -315,9 +315,9 @@ The generated points form the trajectory and are sent to the simulator to execut
 <img src="./imgs/writeup.jpg"/>
 </center>
 <br>
----
-## Dependencies
 
+## Dependencies
+---
 * cmake >= 3.5
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1
