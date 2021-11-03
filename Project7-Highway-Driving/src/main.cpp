@@ -100,7 +100,7 @@ int main() {
           vector<double> next_y_vals;
 
           /**
-           * TODO: define a path made up of (x,y) points that the car will visit
+           *   define a path made up of (x,y) points that the car will visit
            *   sequentially every .02 seconds
            */
           
